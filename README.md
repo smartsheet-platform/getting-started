@@ -73,8 +73,8 @@ https://smartsheet-platform.github.io/api-docs/
 # Samples and SDKs (language bindings)
 We provide SDKs providing a higher level interface for the several languages.
 
-|:Language|:SDK|:Sample application|
-|---|---|---|
+|Language|SDK|Sample application|
+|:---|:---|:---|
 |C#|[smartsheet-csharp-sdk](https://github.com/smartsheet-platform/smartsheet-csharp-sdk)|[csharp-read-write-sheet](https://github.com/smartsheet-samples/csharp-read-write-sheet)|
 |Java|[smartsheet-java-sdk](https://github.com/smartsheet-platform/smartsheet-java-sdk)|[java-read-write-sheet](https://github.com/smartsheet-samples/java-read-write-sheet)|
 |Python|[smartsheet-python-sdk](https://github.com/smartsheet-platform/smartsheet-python-sdk)|[python-read-write-sheet](https://github.com/smartsheet-samples/python-read-write-sheet)|
