@@ -36,7 +36,9 @@ To get a list of all your sheets, try the following command:
 `curl -X GET -H "Authorization: Bearer MY_ACCESS_TOKEN" "https://api.smartsheet.com/2.0/sheets"`
 
 In Postman, it would look like this:
+
 ![Postman screen shot](https://raw.githubusercontent.com/smartsheet-platform/getting-started/master/assets/postman-sample.png?token=AFTWAEH4a4ccHGAJXdh-mIMQRf-3f9iBks5Y0YeHwA%3D%3D)
+
 The result should look something like this (after formatting):
 ```json
 {
