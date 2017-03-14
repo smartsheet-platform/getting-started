@@ -14,7 +14,7 @@ The REST URL structure follows typical resource-oriented conventions. For exampl
  If you don't want to make raw HTTP calls, we also have SDKs which provide a higher level interface for [C#](https://github.com/smartsheet-platform/smartsheet-csharp-sdk), [Java](https://github.com/smartsheet-platform/smartsheet-java-sdk), [Python](https://github.com/smartsheet-platform/smartsheet-python-sdk) and [Node.js](https://github.com/smartsheet-platform/smartsheet-javascript-sdk) code. However, it is still helpful to understand the underlying messages.
   
 # Getting started
-To use the Smartsheet API, you should be familiar with the Smartsheet product and have a basic understanding of programming concepts.
+To use the Smartsheet API, you should be familiar with the [Smartsheet product](https://www.smartsheet.com/) and have a basic understanding of programming concepts.
 
 ## Authentication and authorization
 The Smartsheet API uses OAuth 2.0 for Authentication and Authorization. An HTTP header containing an Access Token is required to authenticate each request. 
