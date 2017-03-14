@@ -36,7 +36,7 @@ To get a list of all your sheets, try the following command:
 `curl -X GET -H "Authorization: Bearer MY_ACCESS_TOKEN" "https://api.smartsheet.com/2.0/sheets"`
 
 In Postman, it would look like this:
-![Postman screen shot](assets/postman-sample.jpg)
+![Postman screen shot](https://raw.githubusercontent.com/smartsheet-platform/getting-started/master/assets/postman-sample.png?token=AFTWAEH4a4ccHGAJXdh-mIMQRf-3f9iBks5Y0YeHwA%3D%3D)
 The result should look something like this (after formatting):
 ```json
 {
@@ -71,7 +71,7 @@ https://smartsheet-platform.github.io/api-docs/
 # Samples and SDKs (language bindings)
 We provide SDKs providing a higher level interface for the several languages.
 
-|Language|SDK|Sample application|
+|:Language|:SDK|:Sample application|
 |---|---|---|
 |C#|[smartsheet-csharp-sdk](https://github.com/smartsheet-platform/smartsheet-csharp-sdk)|[csharp-read-write-sheet](https://github.com/smartsheet-samples/csharp-read-write-sheet)|
 |Java|[smartsheet-java-sdk](https://github.com/smartsheet-platform/smartsheet-java-sdk)|[java-read-write-sheet](https://github.com/smartsheet-samples/java-read-write-sheet)|
