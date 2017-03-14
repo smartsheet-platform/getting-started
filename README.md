@@ -1,5 +1,5 @@
 # Introduction
-The Smartsheet REST API allows you to programmatically access and manage your organization's [Smartsheet](https://www.smartsheet.com/) data and account information. 
+The [Smartsheet](https://www.smartsheet.com/) REST API allows you to programmatically access and manage your organization's Smartsheet data and account information. 
 
 You call the API using standard HTTP commands (GET, POST, PUT, and DELETE) and all data is passed in JSON format.
 
@@ -17,7 +17,7 @@ The REST URL structure follows typical resource-oriented conventions. For exampl
 To use the Smartsheet API, you should be familiar with the Smartsheet product and have a basic understanding of programming concepts.
 
 ## Authentication and authorization
-The Smartsheet API uses OAuth 2.0 for Authentication and Authorization. An Authorization HTTP header containing an Access Token is required to authenticate requests. 
+The Smartsheet API uses OAuth 2.0 for Authentication and Authorization. An HTTP header containing an Access Token is required to authenticate each request. 
 
 If you want to get started quickly, or are developing a standalone application that can run with your credentials, you can generate an Access Token through the UI.
 Open the Account/Personal Settings form and select the "API Access" tab. Click the "Generate new access token" button to obtain an access token.
