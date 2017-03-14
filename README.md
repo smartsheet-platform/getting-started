@@ -7,7 +7,7 @@ The REST URL structure follows typical resource-oriented conventions. For exampl
 
  `GET https://api.smartsheet.com/2.0/sheets`
  
- This will return a list of Sheet objects, where each Sheet will have an “id” attribute. To get details on the sheet with id = 123456, use:
+ This will return a list of Sheet objects, where each Sheet will have an “id” attribute. To get details on the sheet with id 123456, use:
  
  `GET https://api.smartsheet.com/2.0/sheets/123456`
 
@@ -36,7 +36,7 @@ To get a list of all your sheets, try the following command:
 `curl -X GET -H "Authorization: Bearer MY_ACCESS_TOKEN" "https://api.smartsheet.com/2.0/sheets"`
 
 In Postman, it would look like this:
-![Postman screen shot](assets/postman-sample.jpg?raw=true)
+![Postman screen shot](assets/postman-sample.jpg)
 The result should look something like this (after formatting):
 ```json
 {
@@ -70,6 +70,7 @@ https://smartsheet-platform.github.io/api-docs/
 
 # Samples and SDKs (language bindings)
 We provide SDKs providing a higher level interface for the several languages.
+
 |Language|SDK|Sample application|
 |---|---|---|
 |C#|[smartsheet-csharp-sdk](https://github.com/smartsheet-platform/smartsheet-csharp-sdk)|[csharp-read-write-sheet](https://github.com/smartsheet-samples/csharp-read-write-sheet)|
