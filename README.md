@@ -84,6 +84,8 @@ We provide SDKs providing a higher level interface for the several languages.
 # Support
 Questions, problems - please post on [StackOverflow](https://stackoverflow.com/questions/tagged/smartsheet-api) using the "smartsheet-api" tag. Or contact us directly with questions or any other feedback at api@smartsheet.com. 
 
+If you find errors or have suggestions for this document, please [file an issue](https://github.com/smartsheet-platform/getting-started/issues/new) or submit a PR.
+
 ## API FAQ
 * __Is there a fee to use the API?__
 
