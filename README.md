@@ -1,5 +1,5 @@
 # Introduction
-The [Smartsheet](https://www.smartsheet.com/) REST API allows you to programmatically access and manage your organization's Smartsheet data and account information. 
+The [Smartsheet](https://www.smartsheet.com/) REST API allows you to programmatically access and manage your organization's Smartsheet data and account information. Full documentation is here: https://smartsheet-platform.github.io/api-docs
 
 You call the API using standard HTTP commands (GET, POST, PUT, and DELETE) and all data is passed in JSON format.
 
